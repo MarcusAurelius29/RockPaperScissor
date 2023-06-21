@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+html {
+    background-color: aqua;
+}
+
+.choices {
+
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
